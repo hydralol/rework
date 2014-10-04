@@ -1,0 +1,14 @@
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\Blitzcrank.exe.config
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\obj\Debug\Blitzcrank.csprojResolveAssemblyReference.cache
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\Blitzcrank.exe
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\Blitzcrank.pdb
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\LeagueSharp.Common.dll
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\LeagueSharp.dll
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\SharpDX.dll
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\bin\Release\LeagueSharp.xml
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\obj\Debug\Blitzcrank.exe
+C:\Users\Fares\AppData\Roaming\LeagueSharp\Repositories\8BAD3F91\trunk\Blitzcrank\obj\Debug\Blitzcrank.pdb
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\Blitzcrank.exe.config
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\obj\Debug\Blitzcrank.exe
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\obj\Debug\Blitzcrank.pdb

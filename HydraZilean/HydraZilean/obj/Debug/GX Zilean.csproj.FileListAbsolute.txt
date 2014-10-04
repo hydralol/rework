@@ -1,0 +1,19 @@
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\GX Zilean.exe.config
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\obj\Debug\GX Zilean.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\GX Zilean.exe
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\GX Zilean.pdb
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\SharpDX.dll
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\obj\Debug\GX Zilean.exe
+C:\Users\Fares\Desktop\Leaguesharp-Projects-master\GX-Zilean\GX Zilean\obj\Debug\GX Zilean.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\GX Zilean.exe.config
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\obj\Debug\GX Zilean.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\obj\Debug\GX Zilean.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\GX Zilean.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\GX Zilean.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\obj\Debug\GX Zilean.csprojResolveAssemblyReference.cache

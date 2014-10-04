@@ -1,0 +1,7 @@
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\HydraZilean.exe.config
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\HydraZilean.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\HydraZilean.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\obj\Debug\HydraZilean.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraZilean\GX Zilean\obj\Debug\HydraZilean.pdb
