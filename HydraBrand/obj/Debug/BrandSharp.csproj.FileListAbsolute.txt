@@ -1,0 +1,11 @@
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\BrandSharp.exe.config
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\BrandSharp.exe
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\BrandSharp.pdb
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\obj\Debug\BrandSharp.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\obj\Debug\BrandSharp.exe
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\obj\Debug\BrandSharp.pdb

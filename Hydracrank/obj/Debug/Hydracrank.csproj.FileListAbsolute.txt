@@ -1,1 +1,11 @@
 C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\Hydracrank.exe.config
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\Hydracrank.exe
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\Hydracrank.pdb
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\bin\Release\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\obj\Debug\Hydracrank.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\obj\Debug\Hydracrank.exe
+C:\Users\Fares\Documents\GitHub\rework\Hydracrank\obj\Debug\Hydracrank.pdb

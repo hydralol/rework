@@ -8,3 +8,7 @@ C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\HydraJarvanIV.exe
 C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\HydraJarvanIV.pdb
 C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\obj\Debug\HydraJarvanIV.exe
 C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\obj\Debug\HydraJarvanIV.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\HydraJarvanIV.exe.config
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.csprojResolveAssemblyReference.cache

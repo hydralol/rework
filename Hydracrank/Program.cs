@@ -162,6 +162,8 @@ namespace Blitzcrank
 
             if (Config.Item("ComboActive").GetValue<KeyBind>().Active) 
                 Combo();
+            if (useRKS) 
+                Killsteal();
             if (Config.Item("AutoUlt").GetValue<bool>() && Utility.CountEnemysInRange((int)R.Range) >= Config.Item("CountR").GetValue<Slider>().Value && R.IsReady()) 
                 R.Cast();
             if (Config.Item("APToggle").GetValue<bool>())
@@ -187,6 +189,14 @@ namespace Blitzcrank
             }
         }
         
-        
+        private static void Killsteal()
+        {
+            foreach (var hero in ObjectManager.Get<Obj_AI_Hero>().Where(hero => hero.IsValidTarget(R.Range)))
+            {
+                if (R.IsReady() && hero.Distance(ObjectManager.Player) <= R.Range &&
+                    DamageLib.getDmg(hero, DamageLib.SpellType.R) >= hero.Health)
+                    R.Cast();
+            }
+        }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\HydraBrand.exe.config
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\HydraBrand.exe
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\HydraBrand.pdb
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\obj\Debug\HydraBrand.exe
+C:\Users\Fares\Documents\GitHub\rework\BrandSharp\obj\Debug\HydraBrand.pdb

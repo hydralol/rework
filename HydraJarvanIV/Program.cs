@@ -7,9 +7,8 @@ using System.Threading.Tasks;
 using LeagueSharp;
 using LeagueSharp.Common;
 using SharpDX;
-using HydraJarvanIV;
 
-namespace HydraJarvanIV
+namespace SKOJarvanIV
 {
     class Program
     {
@@ -40,6 +39,7 @@ namespace HydraJarvanIV
             Player = ObjectManager.Player;
             if (Player.BaseSkinName != ChampionName) return;
 
+            
 
             Q = new Spell(SpellSlot.Q, 700f);
             W = new Spell(SpellSlot.W, 300f);
@@ -63,7 +63,7 @@ namespace HydraJarvanIV
 
             IgniteSlot = Player.GetSpellSlot("SummonerDot");
 
-            Config = new Menu(ChampionName, "HydraJarvanIV", true);
+            Config = new Menu(ChampionName, "SKOJarvanIV", true);
 
             //TargetSelector
             var targetSelectorMenu = new Menu("Target Selector", "Target Selector");
@@ -195,20 +195,28 @@ namespace HydraJarvanIV
 
         private static void KillSteal(Obj_AI_Hero target)
         {
+            var Qdmg = Q.GetDamage(target, DamageLib.StageType.Default);
+            var Edmg = E.GetDamage(target, DamageLib.StageType.Default);
+            var igniteDmg = DamageLib.getDmg(target, DamageLib.SpellType.IGNITE);
 
             if (target != null) 
             {
                 if (Config.Item("UseQKs").GetValue<bool>() && Q.IsReady()) {
+                    if (target.Health <= Qdmg)
+                        Q.Cast(target);
                     
                 }
 
                 if (Config.Item("UseEKs").GetValue<bool>() && E.IsReady())
                 {
-
+                    if(target.Health <= Edmg)
+                    E.Cast(target);
                 }
                 if (Config.Item("UseIgnite").GetValue<bool>() && IgniteSlot != SpellSlot.Unknown && Player.SummonerSpellbook.CanUseSpell(IgniteSlot) == SpellState.Ready) {
                   
-                   
+                    if (target.Health < igniteDmg) {
+                      Player.SummonerSpellbook.CastSpell(IgniteSlot, target);
+                  }
                 }
             
             }
