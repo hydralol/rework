@@ -1,0 +1,16 @@
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\MasterActivator.exe.config
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\obj\Debug\MasterActivator.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\MasterActivator.exe
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\MasterActivator.pdb
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\clipper_library.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.Toolkit.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.Toolkit.Graphics.dll
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.Toolkit.xml
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\bin\Debug\SharpDX.Toolkit.Graphics.xml
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\obj\Debug\MasterActivator.exe
+C:\Users\Fares\Documents\GitHub\rework\MasterActivator\obj\Debug\MasterActivator.pdb
