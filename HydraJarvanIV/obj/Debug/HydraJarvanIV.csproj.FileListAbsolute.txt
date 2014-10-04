@@ -1,0 +1,10 @@
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\HydraJarvanIV.exe.config
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\HydraJarvanIV.exe
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\bin\Debug\HydraJarvanIV.pdb
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\obj\Debug\HydraJarvanIV.exe
+C:\Users\Fares\Documents\GitHub\rework\SKOJarvanIV\obj\Debug\HydraJarvanIV.pdb
