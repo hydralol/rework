@@ -1,0 +1,13 @@
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\TriKatarina.exe.config
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\obj\Debug\TriKatarina.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\TriKatarina.exe
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\TriKatarina.pdb
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\Triton.dll
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\Triton.pdb
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\obj\Debug\TriKatarina.exe
+C:\Users\Fares\Documents\GitHub\rework\TriKatarina\obj\Debug\TriKatarina.pdb

@@ -1,0 +1,9 @@
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\Triton.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\Triton.pdb
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\Triton\obj\Debug\Triton.dll
+C:\Users\Fares\Documents\GitHub\rework\Triton\obj\Debug\Triton.pdb
