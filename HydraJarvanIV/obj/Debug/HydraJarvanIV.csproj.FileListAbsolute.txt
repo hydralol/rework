@@ -12,3 +12,10 @@ C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\HydraJarvanIV.exe
 C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.exe
 C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.pdb
 C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\obj\Debug\HydraJarvanIV.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\HydraJarvanIV.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\HydraJarvanIV.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraJarvanIV\bin\Debug\LeagueSharp.xml

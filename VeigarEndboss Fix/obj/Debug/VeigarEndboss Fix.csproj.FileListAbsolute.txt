@@ -1,0 +1,11 @@
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\VeigarEndboss Fix.exe.config
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\VeigarEndboss Fix.exe
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\VeigarEndboss Fix.pdb
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\obj\Debug\VeigarEndboss Fix.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\obj\Debug\VeigarEndboss Fix.exe
+C:\Users\Fares\Documents\GitHub\rework\VeigarEndboss\obj\Debug\VeigarEndboss Fix.pdb

@@ -1,0 +1,11 @@
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\HydraNidalee.exe.config
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\obj\Debug\HydraNidalee.csprojResolveAssemblyReference.cache
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\HydraNidalee.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\HydraNidalee.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\obj\Debug\HydraNidalee.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraNidalee\obj\Debug\HydraNidalee.pdb

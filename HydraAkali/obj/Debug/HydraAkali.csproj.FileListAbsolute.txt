@@ -9,3 +9,14 @@ C:\Users\Fares\Documents\GitHub\rework\Akali v1\bin\Debug\LeagueSharp.xml
 C:\Users\Fares\Documents\GitHub\rework\Akali v1\obj\Debug\HydraAkali.csprojResolveAssemblyReference.cache
 C:\Users\Fares\Documents\GitHub\rework\Akali v1\obj\Debug\HydraAkali.exe
 C:\Users\Fares\Documents\GitHub\rework\Akali v1\obj\Debug\HydraAkali.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\HydraAkali.exe.config
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\obj\Debug\HydraAkali.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\obj\Debug\HydraAkali.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\HydraAkali.exe
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\HydraAkali.pdb
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\LeagueSharp.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\SharpDX.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\bin\Debug\LeagueSharp.xml
+C:\Users\Fares\Documents\GitHub\rework\HydraAkali\obj\Debug\HydraAkali.csprojResolveAssemblyReference.cache
